@@ -1,4 +1,3 @@
-git checkout develop
 git merge origin/feature/test1
 git add -f .
 git commit -m MergeAuto
