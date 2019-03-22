@@ -1,0 +1,17 @@
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/hostpolicy.dll
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/hostfxr.dll
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.exe
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.deps.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.runtimeconfig.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.runtimeconfig.dev.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.dll
+/var/lib/jenkins/workspace/demoApp/src/bin/Release/netcoreapp2.2/win-x64/DemoApp.pdb
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.csprojAssemblyReference.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.csproj.CoreCompileInputs.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.RazorAssemblyInfo.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.RazorAssemblyInfo.cs
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.AssemblyInfoInputs.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.AssemblyInfo.cs
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.RazorTargetAssemblyInfo.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.dll
+/var/lib/jenkins/workspace/demoApp/src/obj/Release/netcoreapp2.2/win-x64/DemoApp.pdb

@@ -1,0 +1,14 @@
+/var/lib/jenkins/workspace/demoApp/src/bin/Debug/netcoreapp2.2/DemoApp.deps.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Debug/netcoreapp2.2/DemoApp.runtimeconfig.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Debug/netcoreapp2.2/DemoApp.runtimeconfig.dev.json
+/var/lib/jenkins/workspace/demoApp/src/bin/Debug/netcoreapp2.2/DemoApp.dll
+/var/lib/jenkins/workspace/demoApp/src/bin/Debug/netcoreapp2.2/DemoApp.pdb
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.csprojAssemblyReference.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.csproj.CoreCompileInputs.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.RazorAssemblyInfo.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.RazorAssemblyInfo.cs
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.AssemblyInfoInputs.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.AssemblyInfo.cs
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.RazorTargetAssemblyInfo.cache
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.dll
+/var/lib/jenkins/workspace/demoApp/src/obj/Debug/netcoreapp2.2/DemoApp.pdb

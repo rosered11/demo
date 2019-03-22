@@ -1,0 +1,17 @@
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoAppTest.deps.json
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoAppTest.runtimeconfig.json
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoAppTest.runtimeconfig.dev.json
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoAppTest.dll
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoAppTest.pdb
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoApp.dll
+/var/lib/jenkins/workspace/demoApp/test/bin/Debug/netcoreapp2.2/DemoApp.pdb
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.csprojAssemblyReference.cache
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.csproj.CoreCompileInputs.cache
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.AssemblyInfoInputs.cache
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.AssemblyInfo.cs
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.csproj.CopyComplete
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.dll
+/var/lib/jenkins/workspace/demoApp/test/obj/Debug/netcoreapp2.2/DemoAppTest.pdb
