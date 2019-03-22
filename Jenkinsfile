@@ -1,7 +1,21 @@
+pipeline {
+    agent any
 
-
-node{
-    stage('Check Out') {
-       sh label: '', script: 'echo \'Hello World\''
-   }
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building..'
+            }
+        }
+        stage('Test') {
+            steps {
+                echo 'Testing..'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deploying....'
+            }
+        }
+    }
 }
